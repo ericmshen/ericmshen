@@ -8,7 +8,7 @@ Outside of classwork, I enjoy...
 - 🎹 Concert-going and discovering [new music](https://open.spotify.com/user/mcjmy0h6k1c0g8pfmselhlbfs?si=38eb74cdf2784593)
 - 🏃 Snow sports, running, road and mountain biking
 
-My interests are bound to change as the months progress, and as I continue exploring the different trends dominating computer science and tech. Reach me at ericshen at college dot harvard edu (preferred), or on [Linkedin](https://www.linkedin.com/in/eric-shen/).
+My interests are bound to change as the months progress, and as I continue exploring the different trends dominating computer science and tech. You can find a copy of my resume [here](https://drive.google.com/file/d/1_qJt9KLLcvdHyPQk9LVING2l4dvGKByV/view?usp=sharing). Reach me at ericshen at college dot harvard edu (preferred), or on [Linkedin](https://www.linkedin.com/in/eric-shen/).
 
 <!-- 
 **ericmshen/ericmshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
