@@ -4,7 +4,7 @@ Hello! I am an undergraduate at Harvard University studying Applied Mathematics 
 
 Outside of classwork, I enjoy...
 - 📰 Getting [up to date](https://news.ycombinator.com/) with [what's happening in the world](https://ground.news/)
-- 🤝 Doing [consultancy work] with leading businesses(https://www.harvardconsulting.org/)
+- 🤝 Doing [consultancy work](https://www.harvardconsulting.org/) with leading businesses
 - 🎹 Concert-going and discovering [new music](https://open.spotify.com/user/mcjmy0h6k1c0g8pfmselhlbfs?si=38eb74cdf2784593)
 - 🏃 Snow sports, running, road and mountain biking
 
