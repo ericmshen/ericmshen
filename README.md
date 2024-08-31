@@ -1,6 +1,6 @@
-# Eric M. Shen 🎿
+# Eric M. Shen
 
-Hello! I am an undergraduate at Harvard University studying Applied Mathematics and Computer Science, with a concurrent Master's in Statistics. I originally hail from Toronto and use the he series. I like to [sing](https://harvardgleeclub.org/), [run](http://harvardrunningclub.com/), and [think](https://haist.ai/).
+Hello! I originally hail from Toronto and currently live in New York. I like to [sing](https://harvardgleeclub.org/), [run](http://harvardrunningclub.com/), and [think](https://haist.ai/).
 
 You can find a copy of my resume [here](https://drive.google.com/file/d/1wjaLMGQ58zfrrdjZXKYd4fb1-4taEZ2I/view?usp=sharing). Reach me at ericshen at college dot harvard edu (preferred), or on [Linkedin](https://www.linkedin.com/in/eric-shen/).
 
