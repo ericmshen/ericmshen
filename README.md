@@ -1,10 +1,8 @@
 # Eric M. Shen
 
-Hello! I originally hail from Toronto and currently live in New York. I like to [sing](https://harvardgleeclub.org/), [run](http://harvardrunningclub.com/), and [think](https://haist.ai/).
+Hello! I originally hail from Toronto and currently live in New York. 
 
-You can find a copy of my resume [here](https://drive.google.com/file/d/1wjaLMGQ58zfrrdjZXKYd4fb1-4taEZ2I/view?usp=sharing). Reach me at ericshen at college dot harvard edu (preferred), or on [Linkedin](https://www.linkedin.com/in/eric-shen/).
-
-Follow me on [Spotify](https://open.spotify.com/user/mcjmy0h6k1c0g8pfmselhlbfs?si=38eb74cdf2784593) and [Strava](https://www.strava.com/athletes/103637677).
+Learn a little more about me at my [personal website](https://www.ericmshen.com/).
 
 <!-- 
 **ericmshen/ericmshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
